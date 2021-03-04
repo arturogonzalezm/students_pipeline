@@ -1,0 +1,25 @@
+﻿Month,School,State,Student ID,Student,Subject,Marks Scored
+Jan,Riverbank,NSW,1,Peter,Math,96
+Jan,Riverbank,NSW,1,Peter,Science,60
+Jan,Riverbank,NSW,1,Peter,English,70
+Jan,Riverbank,NSW,2,Sam,Math,90
+Jan,Riverbank,NSW,2,Sam,Science,75
+Jan,Riverbank,NSW,2,Sam,English,89
+Dec,Riverbank,NSW,1,Peter,Math,96
+Dec,Riverbank,NSW,1,Peter,Science,60
+Dec,Riverbank,NSW,1,Peter,English,70
+Dec,Riverbank,NSW,2,Sam,Math,90
+Dec,Riverbank,NSW,2,Sam,Science,75
+Dec,Riverbank,NSW,2,Sam,English,89
+Jan,John Palmer,NSW,1,Geroge,Math,96
+Jan,John Palmer,NSW,1,Geroge,Science,60
+Jan,John Palmer,NSW,1,Geroge,English,70
+Jan,John Palmer,NSW,2,Michael,Math,90
+Jan,John Palmer,NSW,3,Michael,Science,75
+Jan,John Palmer,NSW,3,Michael,English,89
+Dec,John Palmer,NSW,1,Geroge,Math,96
+Dec,John Palmer,NSW,1,Geroge,Science,60
+Dec,John Palmer,NSW,1,Geroge,English,70
+Dec,John Palmer,NSW,2,Michael,Math,90
+Dec,John Palmer,NSW,3,Michael,Science,75
+Dec,John Palmer,NSW,3,Michael,English,89
